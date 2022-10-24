@@ -1,0 +1,35 @@
+
+- Trading
+	- Quarter
+	- Weekly
+	- Swing
+	- Scalping
+- Broker
+	- Oanda
+	- FTX
+	- Binance
+- TradingView
+	- TradingView Ideas
+	- TradingView Scripts
+	- TradingView Analysis
+	- TradingView Hook
+	- TradingView Alerts
+- Django
+	- Tracking System
+	- Execution Engine
+	- Storage System
+	- Web-GUI
+	- Hook-System
+- Deployment Platform
+	- Heroku
+	- Digital Ocean
+	- Fly.io
+	- Scaleway
+- Books
+	- ebooks
+	- print books
+	- tablet
+- Information Resources
+	- PapyPips
+	- YouTube
+	- Podcasts
